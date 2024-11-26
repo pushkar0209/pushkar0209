@@ -110,8 +110,8 @@
 
 
 ## 📊 GitHub Activity
-| ![PUSHKAR github stats](https://github-readme-stats.vercel.app/api?username=komalmishra121&show_icons=true&theme=radical) | ![PUSHKAR GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=komalmishra121&theme=radical)                                                                                                           |
+| ![PUSHKAR github stats](https://github-readme-stats.vercel.app/api?username=pushkar0209&show_icons=true&theme=radical) | ![PUSHKAR GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pushkar0209&theme=radical)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashishsinghyadav&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=komalmishra121&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashishsinghyadav&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=pushkar0209&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />

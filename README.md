@@ -24,7 +24,7 @@
    **
     PYTHON LIBRARIES AND FRAMEWORKs (PANDAS ,NUMPY , DJANGO etc..) , DSA , Advance SQl , APPLICATION DEVELOPMENT and DATA SCIENCE **
 
-- 📫 How to reach me *maduri15251@𝒈𝒎𝒂𝒊𝒍.𝒄𝒐𝒎*
+- 📫 How to reach me *maduri15251@gmail.com*
 
 
 <br>
